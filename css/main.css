@@ -15,6 +15,7 @@ h1 {
 }
 p {
   margin-bottom: 3rem;
+  text-align: left;
 }
 a {
   text-decoration: none;
