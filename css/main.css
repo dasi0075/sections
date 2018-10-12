@@ -20,19 +20,22 @@ p {
 
 }
 
-a {
+.btn {
   text-decoration: none;
-  text-align: left;
+  decoration: none;
+  text-align: center;
   padding: 1em;
   margin-top: 1.5rem;
-  border: 2px;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  border: 1px;
   border-style: solid;
   border-radius: 7px;
   border-width: medium;
   color: #333;
 }
 
-a:hover {
+li:hover {
   background-color: #666;
 }
 
