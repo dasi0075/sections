@@ -17,13 +17,18 @@ p {
   margin-bottom: 1.5rem;
 }
 a {
+  text-decoration: none;
   padding: 1em;
   margin-top: 1.5rem;
   border: 2px;
   border-style: solid;
   border-radius: 7px;
   border-width: medium;
-  color: #666
+  color: #333;
+}
+
+a:hover {
+  background-color: #666;
 }
 
 section {
