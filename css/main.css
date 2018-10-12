@@ -13,11 +13,13 @@ h2 {
   font-family: "Lato", sans-serif;
   font-weight: bold;
 }
+
 p {
   margin-bottom: 3rem;
   text-align: left;
 
 }
+
 a {
   text-decoration: none;
   text-align: left;
@@ -45,7 +47,7 @@ section {
 img {
   display: inline-flex;
   margin-right: 1.5rem;
-  width: 420px;
+  width: 320px;
   max-width: 100%;
   vertical-align: middle;
 }
