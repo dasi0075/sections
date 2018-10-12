@@ -22,16 +22,15 @@ p {
 
 .btn {
   text-decoration: none;
-  decoration: none;
   text-align: center;
   padding: 1em;
   margin-top: 1.5rem;
-  margin-left: 7rem;
-  margin-right: 7rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
   border: 1px;
   border-style: solid;
-  border-radius: 7px;
   border-width: medium;
+  border-radius: 7px;
   color: #333;
 }
 
@@ -39,7 +38,7 @@ li:hover {
   background-color: #666;
 }
 
-section {
+div {
   display: inline-block;
   vertical-align: top;
   color: #333;
@@ -47,8 +46,8 @@ section {
   max-width: 25em;
 }
 
-img {
-  display: inline-flex;
+section img {
+  display: inline-block;
   margin-right: 1.5rem;
   width: 320px;
   max-width: 100%;
