@@ -36,6 +36,7 @@ a:hover {
 section {
   display: inline-block;
   vertical-align: top;
+  text-align: center;
   color: #333;
   width: auto;
   max-width: 25em;
@@ -43,4 +44,6 @@ section {
 
 img {
   margin-right: 1.5rem;
+  width: auto;
+  max-width: 100%;
 }
