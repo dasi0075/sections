@@ -4,4 +4,29 @@
 
   *, *::before, *::after {
     box-sizing: inherit;
+    background-color: #eee9de;
+    font-family: "Lato", sans-serif;
+    line-height: 1.5;
   }
+
+h1 {
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+}
+p {
+  margin-bottom: 1.5rem;
+}
+a {
+  padding: 1em;
+  margin-top: 1.5rem;
+  border-radius: 10px;
+  color: #666;
+}
+
+section {
+  display: inline-block;
+}
+
+img {
+  dislpay: inline-block;
+}
