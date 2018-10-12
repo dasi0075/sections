@@ -17,16 +17,13 @@ h2 {
 p {
   margin-bottom: 3rem;
   text-align: left;
-
 }
 
-.btn {
+a {
   text-decoration: none;
   text-align: center;
   padding: 1em;
   margin-top: 1.5rem;
-  margin-left: 10rem;
-  margin-right: 10rem;
   border: 1px;
   border-style: solid;
   border-width: medium;
@@ -34,11 +31,12 @@ p {
   color: #333;
 }
 
-li:hover {
+a:hover {
   background-color: #666;
+  text-decoration: none;
 }
 
-div {
+section {
   display: inline-block;
   vertical-align: top;
   color: #333;
@@ -46,10 +44,11 @@ div {
   max-width: 25em;
 }
 
-section img {
+img {
   display: inline-block;
   margin-right: 1.5rem;
   width: 320px;
+  height: auto;
   max-width: 100%;
   vertical-align: middle;
 }
