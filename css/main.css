@@ -16,6 +16,7 @@ h1 {
 p {
   margin-bottom: 3rem;
   text-align: left;
+
 }
 a {
   text-decoration: none;
@@ -34,12 +35,12 @@ a:hover {
 
 section {
   display: inline-block;
+  vertical-align: top;
   color: #333;
   width: auto;
   max-width: 25em;
 }
 
 img {
-  dislpay: inline-block;
   margin-right: 1.5rem;
 }
