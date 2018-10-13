@@ -1,13 +1,13 @@
 html {
   box-sizing: border-box;
-  }
+}
 
 *, *::before, *::after {
   box-sizing: inherit;
   background-color: #eee9de;
   font-family: "Lato", sans-serif;
   line-height: 1.5;
-  }
+}
 
 h2 {
   font-family: "Lato", sans-serif;
@@ -46,17 +46,19 @@ section {
   color: #333;
   width: auto;
   max-width: 25em;
+  margin: 3rem;
 }
 
 img {
   margin-right: 1.5rem;
-  width: auto;
+  width: inherit;
   max-width: 100%;
   height: auto;
+  display: inline-block;
 }
 
 body {
-  margin: 1.75rem;
+  margin: 0;
   padding: 0;
   border-width: 0;
 }
@@ -70,5 +72,4 @@ div {
 
 .btn {
   display: inline-block;
-  float: left;
 }
