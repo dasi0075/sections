@@ -47,11 +47,13 @@ section {
   width: auto;
   max-width: 25em;
   margin: 3rem;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 img {
   margin-right: 1.5rem;
-  width: inherit;
+  width: 0;
   max-width: 100%;
   height: auto;
   display: block;
