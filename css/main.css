@@ -54,7 +54,7 @@ img {
   width: 960px;
   max-width: 100%;
   height: auto;
-  display: block;
+  display: initial;
 }
 
 body {
@@ -67,9 +67,11 @@ div {
   max-width: 25rem;
   padding: 0;
   margin: 0;
-  vertical-align: middle;
 }
 
 .btn {
   display: inline-block;
+  height: auto;
+  width: auto;
+  vertical-align: middle;
 }
