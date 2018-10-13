@@ -19,6 +19,11 @@ p {
   text-align: left;
 }
 
+h2 p {
+  display: inline-block;
+  float: left;
+}
+
 a {
   text-decoration: none;
   text-align: center;
@@ -29,6 +34,7 @@ a {
   border-width: medium;
   border-radius: 7px;
   color: #333;
+  width: 100%;
 }
 
 a:hover {
@@ -37,27 +43,26 @@ a:hover {
 }
 
 section {
-  display: inline-block;
-  vertical-align: top;
   color: #333;
   width: auto;
   max-width: 25em;
 }
 
 img {
-  display: inline-block;
   margin-right: 1.5rem;
-  width: 320px;
-  height: auto;
+  width: 100%;
   max-width: 100%;
-  vertical-align: middle;
+  height: auto;
 }
 
 body {
   margin: 3rem;
-  display: inline-block;
 }
 
 div {
-  text-align: center;
+  max-width: 25rem;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  vertical-align: middle;
 }
