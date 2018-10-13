@@ -50,10 +50,9 @@ section {
 
 img {
   margin-right: 1.5rem;
-  width: 100%;
+  width: auto;
   max-width: 100%;
   height: auto;
-  display: inline;
 }
 
 body {
