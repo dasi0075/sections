@@ -51,7 +51,7 @@ section {
 
 img {
   margin-right: 1.5rem;
-  width: inherit;
+  width: 100%;
   max-width: 100%;
   height: auto;
   display: block;
