@@ -58,10 +58,7 @@ section {
   color: black;
   width: auto;
   margin: 10px;
-  display: inline-block;
   vertical-align: middle;
-  text-align: left;
-  float: left;
 }
 
 img {
@@ -70,6 +67,7 @@ img {
   margin-right: 1.5rem;
   margin-top: 2rem;
   height: auto;
+  display: inline-block;
 }
 
 div {
