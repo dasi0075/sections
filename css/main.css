@@ -24,14 +24,11 @@ h2 p {
   float: left;
 }
 
-a {
+.btn {
   text-decoration: none;
   text-align: center;
   padding: 1em;
   margin-top: 1.5rem;
-}
-
-.btn {
   border: 1px;
   border-style: solid;
   border-width: medium;
@@ -79,4 +76,13 @@ nav {
   height: auto;
   width: auto;
   vertical-align: middle;
+}
+
+.kufhu3d {
+  display: inline-block;
+}
+
+.img3 .img4 {
+  width: auto;
+  max-width: 50%;
 }
