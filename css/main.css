@@ -22,7 +22,7 @@ h2 {
 }
 
 p {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   text-align: left;
 }
 
@@ -79,7 +79,7 @@ div {
   margin: 0;
 }
 
-nav {
+nav a {
   margin: 0;
   display: inline-block;
   height: auto;
