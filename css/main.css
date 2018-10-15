@@ -17,25 +17,27 @@ body {
 }
 
 h2 {
-  margin-top: .8rem;
+  margin-top: 0;
+  padding: .5em 0 0;
   font-family: Lato, sans-serif;
   font-weight: bold;
+  text-align: left;
 }
 
 p {
-  margin-bottom: 2rem;
+  padding: 2em 0;
+  margin: 0;
   text-align: left;
 }
 
 .btn {
   text-decoration: none;
-  text-align: center;
+  text-align: left;
   padding: 1em;
   margin-top: 2rem;
-  border: 1px;
   border-style: solid;
   border-width: medium;
-  border-radius: 8px;
+  border-radius: .5em;
   color: #333;
   width: 100%;
 }
