@@ -33,6 +33,7 @@ p {
 .btn {
   text-decoration: none;
   text-align: left;
+  font-size: 1.1em;
   padding: 1em;
   margin-top: 2rem;
   border-style: solid;
